@@ -4,7 +4,7 @@ LexAI is a project I’m building to explore how AI can make legal information, 
 
 The idea is to create one platform where **lawyers, law students, legal researchers, and everyday users** can explore legal information, organize cases, review documents, research legal topics, and interact with an AI assistant.
 
-I started building LexAI because I wanted to see what a modern legal platform could look like if AI was built into the experience from the beginning — instead of being just another chatbot
+I started building LexAI because I wanted to see what a modern legal platform could look like if AI was built into the experience from the beginning instead of being just another chatbot
 
 **Screens included:**
 - **Home** — daily brief, ask bar, quick actions, legal intelligence feed, active cases
