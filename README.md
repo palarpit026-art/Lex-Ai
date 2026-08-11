@@ -59,3 +59,4 @@ This prototype is UI-only. To make it functional:
 - Replace `mockAnswer()` with a real API call to an LLM (with case documents as context) — this needs a small server, since browsers can't safely hold an API key.
 - Add auth (the Profile screen assumes a logged-in advocate).
 - Add citation verification and document intelligence as real services once you're past the read-only prototype stage.
+LexAI Prototype
