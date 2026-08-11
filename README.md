@@ -1,8 +1,10 @@
 # LexAI Prototype
 
-A front-end prototype of **LexAI** — an AI-powered legal platform related to law background, starting with the Indian legal market.
+LexAI is a project I’m building to explore how AI can make legal information, research, and case-related work simpler and more accessible.
 
-This is a clickable, static prototype. It runs entirely in the browser — no build step, no backend, no dependencies to install.
+The idea is to create one platform where **lawyers, law students, legal researchers, and everyday users** can explore legal information, organize cases, review documents, research legal topics, and interact with an AI assistant.
+
+I started building LexAI because I wanted to see what a modern legal platform could look like if AI was built into the experience from the beginning — instead of being just another chatbot
 
 **Screens included:**
 - **Home** — daily brief, ask bar, quick actions, legal intelligence feed, active cases
