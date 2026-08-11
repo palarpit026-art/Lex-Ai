@@ -1,8 +1,8 @@
 # LexAI Prototype
 
-A front-end prototype of **LexAI** — an AI-powered legal platform for lawyers, starting with the Indian legal market.
+A front-end prototype of **LexAI** — an AI-powered legal platform related to law background, starting with the Indian legal market.
 
-This is a clickable, static prototype built from the product's Figma design. It runs entirely in the browser — no build step, no backend, no dependencies to install.
+This is a clickable, static prototype. It runs entirely in the browser — no build step, no backend, no dependencies to install.
 
 **Screens included:**
 - **Home** — daily brief, ask bar, quick actions, legal intelligence feed, active cases
