@@ -1,6 +1,6 @@
 # LexAI Prototype
 
-LexAI is a project I’m building to explore how AI can make legal information, research, and case-related work simpler and more accessible.
+LexAI is a project I’m building to explore how AI can make legal information, research, and case related work simpler and more accessible.
 
 The idea is to create one platform where **lawyers, law students, legal researchers, and everyday users** can explore legal information, organize cases, review documents, research legal topics, and interact with an AI assistant.
 
